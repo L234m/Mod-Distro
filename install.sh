@@ -80,7 +80,7 @@ rm $CHROOT/root/.bashrc
 install_theme(){
 echo ${G}"Installing Theme"${W}
 mv $CHROOT/home/ubuntu/.bashrc $CHROOT/home/ubuntu/.bashrc.bak
-echo "wget https://raw.githubusercontent.com/TecnicalBot/modded-distro/main/theme/theme.sh ; bash  theme.sh; exit" >> $CHROOT/home/ubuntu/.bashrc
+echo "wget https://raw.githubusercontent.com/L234m/Mod-Distro/refs/heads/main/theme.sh ; bash  theme.sh; exit" >> $CHROOT/home/ubuntu/.bashrc
 ubuntu
 rm $CHROOT/home/ubuntu/theme.sh*
 rm $CHROOT/home/ubuntu/.bashrc
