@@ -2,4 +2,4 @@
 
 Installation Paste following command in Termux
 
-curl https://raw.githubusercontent.com/Downlaofy123/Modded-Distro/refs/heads/main/install.sh >> install.sh bash install.sh
+curl https://raw.githubusercontent.com/L234m/Mod-Distro/refs/heads/main/install.sh >> install.sh bash install.sh
